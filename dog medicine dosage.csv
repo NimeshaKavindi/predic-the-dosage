@@ -1,0 +1,193 @@
+Medicine,Age,Weight,Breed,Dose (mg)
+NexGard,0-1 year,0-22 lbs,German Shepherd,11
+NexGard,0-1 year,0-22 lbs,siberian husky,11
+NexGard,0-1 year,0-22 lbs,Rottweiler,11
+NexGard,0-1 year,0-22 lbs,Labrador Retriever,11
+NexGard,0-1 year,0-22 lbs,Golden Retriever,11
+NexGard,0-1 year,0-22 lbs,Dobermann,11
+NexGard,0-1 year,23-57 lbs,German Shepherd,11
+NexGard,0-1 year,23-57 lbs,siberian husky,11
+NexGard,0-1 year,23-57 lbs,Rottweiler,11
+NexGard,0-1 year,23-57 lbs,Labrador Retriever,11
+NexGard,0-1 year,23-57 lbs,Golden Retriever,11
+NexGard,0-1 year,23-57 lbs,Dobermann,11
+NexGard,0-1 year,58-99 lbs,German Shepherd,11
+NexGard,0-1 year,58-99 lbs,siberian husky,11
+NexGard,0-1 year,58-99 lbs,Rottweiler,11
+NexGard,0-1 year,58-99 lbs,Labrador Retriever,11
+NexGard,0-1 year,58-99 lbs,Golden Retriever,11
+NexGard,0-1 year,58-99 lbs,Dobermann,11
+NexGard,0-1 year,100+ lbs,German Shepherd,11
+NexGard,0-1 year,100+ lbs,siberian husky,11
+NexGard,0-1 year,100+ lbs,Rottweiler,11
+NexGard,0-1 year,100+ lbs,Labrador Retriever,11
+NexGard,0-1 year,100+ lbs,Golden Retriever,11
+NexGard,0-1 year,100+ lbs,Dobermann,11
+NexGard,1-8 year,0-22 lbs,German Shepherd,11
+NexGard,1-8 year,0-22 lbs,siberian husky,11
+NexGard,1-8 year,0-22 lbs,Rottweiler,11
+NexGard,1-8 year,0-22 lbs,Labrador Retriever,11
+NexGard,1-8 year,0-22 lbs,Golden Retriever,11
+NexGard,1-8 year,0-22 lbs,Dobermann,11
+NexGard,1-8 year,23-57 lbs,German Shepherd,28
+NexGard,1-8 year,23-57 lbs,siberian husky,28
+NexGard,1-8 year,23-57 lbs,Rottweiler,28
+NexGard,1-8 year,23-57 lbs,Labrador Retriever,28
+NexGard,1-8 year,23-57 lbs,Golden Retriever,28
+NexGard,1-8 year,23-57 lbs,Dobermann,28
+NexGard,1-8 year,58-99 lbs,German Shepherd,68
+NexGard,1-8 year,58-99 lbs,siberian husky,68
+NexGard,1-8 year,58-99 lbs,Rottweiler,68
+NexGard,1-8 year,58-99 lbs,Labrador Retriever,68
+NexGard,1-8 year,58-99 lbs,Golden Retriever,68
+NexGard,1-8 year,58-99 lbs,Dobermann,68
+NexGard,1-8 year,100+ lbs,German Shepherd,136
+NexGard,1-8 year,100+ lbs,siberian husky,136
+NexGard,1-8 year,100+ lbs,Rottweiler,136
+NexGard,1-8 year,100+ lbs,Labrador Retriever,136
+NexGard,1-8 year,100+ lbs,Golden Retriever,136
+NexGard,1-8 year,100+ lbs,Dobermann,136
+NexGard,8-12 year,0-22 lbs,German Shepherd,11
+NexGard,8-12 year,0-22 lbs,siberian husky,11
+NexGard,8-12 year,0-22 lbs,Rottweiler,11
+NexGard,8-12 year,0-22 lbs,Labrador Retriever,11
+NexGard,8-12 year,0-22 lbs,Golden Retriever,11
+NexGard,8-12 year,0-22 lbs,Dobermann,11
+NexGard,8-12 year,23-57 lbs,German Shepherd,28
+NexGard,8-12 year,23-57 lbs,siberian husky,28
+NexGard,8-12 year,23-57 lbs,Rottweiler,28
+NexGard,8-12 year,23-57 lbs,Labrador Retriever,28
+NexGard,8-12 year,23-57 lbs,Golden Retriever,28
+NexGard,8-12 year,23-57 lbs,Dobermann,28
+NexGard,8-12 year,58-99 lbs,German Shepherd,68
+NexGard,8-12 year,58-99 lbs,siberian husky,68
+NexGard,8-12 year,58-99 lbs,Rottweiler,68
+NexGard,8-12 year,58-99 lbs,Labrador Retriever,68
+NexGard,8-12 year,58-99 lbs,Golden Retriever,68
+NexGard,8-12 year,58-99 lbs,Dobermann,68
+NexGard,8-12 year,100+ lbs,German Shepherd,136
+NexGard,8-12 year,100+ lbs,siberian husky,136
+NexGard,8-12 year,100+ lbs,Rottweiler,136
+NexGard,8-12 year,100+ lbs,Labrador Retriever,136
+NexGard,8-12 year,100+ lbs,Golden Retriever,136
+NexGard,8-12 year,100+ lbs,Dobermann,136
+NexGard,12+ year,0-22 lbs,German Shepherd,11
+NexGard,12+ year,0-22 lbs,siberian husky,11
+NexGard,12+ year,0-22 lbs,Rottweiler,11
+NexGard,12+ year,0-22 lbs,Labrador Retriever,11
+NexGard,12+ year,0-22 lbs,Golden Retriever,11
+NexGard,12+ year,0-22 lbs,Dobermann,11
+NexGard,12+ year,23-57 lbs,German Shepherd,28
+NexGard,12+ year,23-57 lbs,siberian husky,28
+NexGard,12+ year,23-57 lbs,Rottweiler,28
+NexGard,12+ year,23-57 lbs,Labrador Retriever,28
+NexGard,12+ year,23-57 lbs,Golden Retriever,28
+NexGard,12+ year,23-57 lbs,Dobermann,28
+NexGard,12+ year,58-99 lbs,German Shepherd,68
+NexGard,12+ year,58-99 lbs,siberian husky,68
+NexGard,12+ year,58-99 lbs,Rottweiler,68
+NexGard,12+ year,58-99 lbs,Labrador Retriever,68
+NexGard,12+ year,58-99 lbs,Golden Retriever,68
+NexGard,12+ year,58-99 lbs,Dobermann,68
+NexGard,12+ year,100+ lbs,German Shepherd,136
+NexGard,12+ year,100+ lbs,siberian husky,136
+NexGard,12+ year,100+ lbs,Rottweiler,136
+NexGard,12+ year,100+ lbs,Labrador Retriever,136
+NexGard,12+ year,100+ lbs,Golden Retriever,136
+NexGard,12+ year,100+ lbs,Dobermann,136
+BRAVECTO,0-1 year,0-22 lbs,German Shepherd,45
+BRAVECTO,0-1 year,0-22 lbs,siberian husky,45
+BRAVECTO,0-1 year,0-22 lbs,Rottweiler,45
+BRAVECTO,0-1 year,0-22 lbs,Labrador Retriever,45
+BRAVECTO,0-1 year,0-22 lbs,Golden Retriever,45
+BRAVECTO,0-1 year,0-22 lbs,Dobermann,45
+BRAVECTO,0-1 year,23-57 lbs,German Shepherd,100
+BRAVECTO,0-1 year,23-57 lbs,siberian husky,200
+BRAVECTO,0-1 year,23-57 lbs,Rottweiler,100
+BRAVECTO,0-1 year,23-57 lbs,Labrador Retriever,200
+BRAVECTO,0-1 year,23-57 lbs,Golden Retriever,200
+BRAVECTO,0-1 year,23-57 lbs,Dobermann,100
+BRAVECTO,0-1 year,58-99 lbs,German Shepherd,400
+BRAVECTO,0-1 year,58-99 lbs,siberian husky,400
+BRAVECTO,0-1 year,58-99 lbs,Rottweiler,200
+BRAVECTO,0-1 year,58-99 lbs,Labrador Retriever,200
+BRAVECTO,0-1 year,58-99 lbs,Golden Retriever,400
+BRAVECTO,0-1 year,58-99 lbs,Dobermann,200
+BRAVECTO,0-1 year,100+ lbs,German Shepherd,400
+BRAVECTO,0-1 year,100+ lbs,siberian husky,400
+BRAVECTO,0-1 year,100+ lbs,Rottweiler,400
+BRAVECTO,0-1 year,100+ lbs,Labrador Retriever,400
+BRAVECTO,0-1 year,100+ lbs,Golden Retriever,400
+BRAVECTO,0-1 year,100+ lbs,Dobermann,400
+BRAVECTO,1-8 year,0-22 lbs,German Shepherd,45
+BRAVECTO,1-8 year,0-22 lbs,siberian husky,45
+BRAVECTO,1-8 year,0-22 lbs,Rottweiler,45
+BRAVECTO,1-8 year,0-22 lbs,Labrador Retriever,45
+BRAVECTO,1-8 year,0-22 lbs,Golden Retriever,45
+BRAVECTO,1-8 year,0-22 lbs,Dobermann,45
+BRAVECTO,1-8 year,23-57 lbs,German Shepherd,100
+BRAVECTO,1-8 year,23-57 lbs,siberian husky,200
+BRAVECTO,1-8 year,23-57 lbs,Rottweiler,100
+BRAVECTO,1-8 year,23-57 lbs,Labrador Retriever,200
+BRAVECTO,1-8 year,23-57 lbs,Golden Retriever,200
+BRAVECTO,1-8 year,23-57 lbs,Dobermann,100
+BRAVECTO,1-8 year,58-99 lbs,German Shepherd,400
+BRAVECTO,1-8 year,58-99 lbs,siberian husky,400
+BRAVECTO,1-8 year,58-99 lbs,Rottweiler,200
+BRAVECTO,1-8 year,58-99 lbs,Labrador Retriever,200
+BRAVECTO,1-8 year,58-99 lbs,Golden Retriever,400
+BRAVECTO,1-8 year,58-99 lbs,Dobermann,200
+BRAVECTO,1-8 year,100+ lbs,German Shepherd,400
+BRAVECTO,1-8 year,100+ lbs,siberian husky,400
+BRAVECTO,1-8 year,100+ lbs,Rottweiler,400
+BRAVECTO,1-8 year,100+ lbs,Labrador Retriever,400
+BRAVECTO,1-8 year,100+ lbs,Golden Retriever,400
+BRAVECTO,1-8 year,100+ lbs,Dobermann,400
+BRAVECTO,8-12 year,0-22 lbs,German Shepherd,45
+BRAVECTO,8-12 year,0-22 lbs,siberian husky,45
+BRAVECTO,8-12 year,0-22 lbs,Rottweiler,45
+BRAVECTO,8-12 year,0-22 lbs,Labrador Retriever,45
+BRAVECTO,8-12 year,0-22 lbs,Golden Retriever,45
+BRAVECTO,8-12 year,0-22 lbs,Dobermann,45
+BRAVECTO,8-12 year,23-57 lbs,German Shepherd,100
+BRAVECTO,8-12 year,23-57 lbs,siberian husky,200
+BRAVECTO,8-12 year,23-57 lbs,Rottweiler,100
+BRAVECTO,8-12 year,23-57 lbs,Labrador Retriever,200
+BRAVECTO,8-12 year,23-57 lbs,Golden Retriever,200
+BRAVECTO,8-12 year,23-57 lbs,Dobermann,100
+BRAVECTO,8-12 year,58-99 lbs,German Shepherd,400
+BRAVECTO,8-12 year,58-99 lbs,siberian husky,400
+BRAVECTO,8-12 year,58-99 lbs,Rottweiler,200
+BRAVECTO,8-12 year,58-99 lbs,Labrador Retriever,200
+BRAVECTO,8-12 year,58-99 lbs,Golden Retriever,400
+BRAVECTO,8-12 year,58-99 lbs,Dobermann,200
+BRAVECTO,8-12 year,100+ lbs,German Shepherd,400
+BRAVECTO,8-12 year,100+ lbs,siberian husky,400
+BRAVECTO,8-12 year,100+ lbs,Rottweiler,400
+BRAVECTO,8-12 year,100+ lbs,Labrador Retriever,400
+BRAVECTO,8-12 year,100+ lbs,Golden Retriever,400
+BRAVECTO,8-12 year,100+ lbs,Dobermann,400
+BRAVECTO,12+ year,0-22 lbs,German Shepherd,100
+BRAVECTO,12+ year,0-22 lbs,siberian husky,100
+BRAVECTO,12+ year,0-22 lbs,Rottweiler,45
+BRAVECTO,12+ year,0-22 lbs,Labrador Retriever,200
+BRAVECTO,12+ year,0-22 lbs,Golden Retriever,200
+BRAVECTO,12+ year,0-22 lbs,Dobermann,45
+BRAVECTO,12+ year,23-57 lbs,German Shepherd,400
+BRAVECTO,12+ year,23-57 lbs,siberian husky,400
+BRAVECTO,12+ year,23-57 lbs,Rottweiler,400
+BRAVECTO,12+ year,23-57 lbs,Labrador Retriever,200
+BRAVECTO,12+ year,23-57 lbs,Golden Retriever,400
+BRAVECTO,12+ year,23-57 lbs,Dobermann,400
+BRAVECTO,12+ year,58-99 lbs,German Shepherd,400
+BRAVECTO,12+ year,58-99 lbs,siberian husky,400
+BRAVECTO,12+ year,58-99 lbs,Rottweiler,200
+BRAVECTO,12+ year,58-99 lbs,Labrador Retriever,400
+BRAVECTO,12+ year,58-99 lbs,Golden Retriever,400
+BRAVECTO,12+ year,58-99 lbs,Dobermann,200
+BRAVECTO,12+ year,100+ lbs,German Shepherd,400
+BRAVECTO,12+ year,100+ lbs,siberian husky,400
+BRAVECTO,12+ year,100+ lbs,Rottweiler,400
+BRAVECTO,12+ year,100+ lbs,Labrador Retriever,400
+BRAVECTO,12+ year,100+ lbs,Golden Retriever,400
+BRAVECTO,12+ year,100+ lbs,Dobermann,400
